@@ -12,3 +12,6 @@ case "$a" in
 esac
 
 exit 0
+
+# Here's some test edit
+echo "Test edit"
